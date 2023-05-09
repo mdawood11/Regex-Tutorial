@@ -1,0 +1,23 @@
+{
+  "name": "regex-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdawood11/Regex-Tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdawood11/Regex-Tutorial/issues"
+  },
+  "homepage": "https://github.com/mdawood11/Regex-Tutorial#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
